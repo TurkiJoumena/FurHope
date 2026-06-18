@@ -36,3 +36,4 @@ tools/voice_service/.venv/
 ".env" 
 ".env.dev" 
 ".env.test" 
+"*.sql" 
