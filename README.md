@@ -72,3 +72,13 @@ Additionally, I collaborated with the team on application integration, version c
 **Joumana Turki**
 
 Computer Science Student | Data Science Enthusiast
+
+<img width="1280" height="615" alt="1778494016846" src="https://github.com/user-attachments/assets/a74385fd-e1f5-4ac4-ad7b-7b8d436472f1" />
+<img width="1280" height="611" alt="1778494016765" src="https://github.com/user-attachments/assets/1887c4ce-e042-46f6-b11a-2f03f805caea" />
+<img width="1280" height="616" alt="1778494016909" src="https://github.com/user-attachments/assets/fa178f78-8876-4303-9748-b0df68b39243" />
+<img width="1280" height="612" alt="1778494017147" src="https://github.com/user-attachments/assets/918c6480-23c2-4d85-83d7-516f87392c16" />
+<img width="1280" height="616" alt="1778494016940" src="https://github.com/user-attachments/assets/2024945b-d331-4194-bcb5-8a882a49efb5" />
+<img width="1280" height="616" alt="1778494017045" src="https://github.com/user-attachments/assets/d4c24fd0-cfbc-4656-a094-327eb89b3f17" />
+<img width="1280" height="615" alt="1778494017048" src="https://github.com/user-attachments/assets/e92bea78-ff34-4cd8-a1e5-0ea07a669ae6" />
+<img width="1280" height="617" alt="1778494017208" src="https://github.com/user-attachments/assets/2aa9a37a-b9e0-4b42-8193-f945c02ce914" />
+
